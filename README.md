@@ -32,7 +32,7 @@ This project demonstrates **data cleaning, manipulation, statistical analysis, a
 - **Pandas** – For data manipulation and analysis  
 - **NumPy** – For numerical operations  
 - **Matplotlib** – For data visualization  
-- **Optional:** Seaborn for enhanced visualization  
+  
 
 ---
 
@@ -43,7 +43,7 @@ This project demonstrates **data cleaning, manipulation, statistical analysis, a
   - Province  
   - City  
   - Type (Public/Private)  
-  - Year Established (if available)  
+   
 
 ---
 
