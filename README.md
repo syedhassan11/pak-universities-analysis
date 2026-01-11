@@ -37,7 +37,7 @@ This project demonstrates **data cleaning, manipulation, statistical analysis, a
 ---
 
 ## 📁 Dataset
-- **Source:** Publicly available information on universities in Pakistan (e.g., HEC website, Wikipedia, or other open datasets)  
+- **Source:** From HEC website on universities of pakistan 
 - **Contents include:**  
   - University Name  
   - Province  
